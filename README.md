@@ -1,2 +1,2 @@
 # odin-recipes
-Odin project recipes exercise
+Odin project recipes html and git exercise
